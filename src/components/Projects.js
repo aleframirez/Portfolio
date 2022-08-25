@@ -64,7 +64,7 @@ export const Projects = () => {
                       id="pills-tab"
                     >
                       <Nav.Item>
-                        <Nav.Link eventKey="first">Done</Nav.Link>
+                        <Nav.Link eventKey="first">Projects done</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
                         <Nav.Link eventKey="second">In Progress</Nav.Link>

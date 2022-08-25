@@ -52,12 +52,12 @@ export const Skills = () => {
                 className="owl-carousel owl-theme skill-slider"
               >
                 <div className="item">
-                  <img className="logo-js" src={jsLogo} alt="Img" />
-                  <h5>JavaScript</h5>
-                </div>
-                <div className="item">
                   <img className="logo-css" src={cssLogo} alt="Img" />
                   <h5>CSS</h5>
+                </div>
+                <div className="item">
+                  <img className="logo-js" src={jsLogo} alt="Img" />
+                  <h5>JavaScript</h5>
                 </div>
                 <div className="item">
                   <img className="logo-html" src={htmlLogo} alt="Img" />
